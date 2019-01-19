@@ -10,3 +10,5 @@ print("Welcome to branch 'feature-A!'")
 print("Welcome to branch 'fix-B'")
 
 print("feature!")
+
+print("This is tom editer.")
