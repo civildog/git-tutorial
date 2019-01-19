@@ -6,3 +6,5 @@ print("Welcome to branch 'feature-A!'")
 
     
 
+#Now we have switched to the branch 'Fix - B'
+print("Welcome to branch 'fix-B'")
